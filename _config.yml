@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Dragonzz's Blog # the main title
 
-tagline: No such things as giving up! # it will display as the subtitle
+tagline: No such thing as giving up! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
